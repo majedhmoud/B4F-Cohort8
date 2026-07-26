@@ -99,18 +99,17 @@ export const cutting = (rodList) => {
   let ind = rodList.length - 1;
   let flag = false;
   while (ind > 0) {
-    console.log(ans);
-    if (mx[ind] == mx[ind - 1] || ind > n) {
-      ind--;
-      continue;
-    }
-    let numOfPeices = Math.floor(n / ind);
-    ans += numOfPeices * rodList[ind];
+      if (mx[ind] == mx[ind - 1] || ind > n) {
+          ind--;
+          continue;
+        }
+        let numOfPeices = Math.floor(n / ind);
+        ans += numOfPeices * rodList[ind];
     n = n % ind;
     if (ind == 1) flag = true;
     ind = n - 1;
   }
-  ans = ans - (flag == true);
+  ans = ans - (flag == true ? rodList[1] : 0);
   return ans;
 };
 
