@@ -48,7 +48,7 @@ export const watering = (bars) => {
     suffix = [];
   for (let i = 0; i < bars.length; i++) {
     prefix[i] = 0;
-    prefix[i] = 0;
+    suffix[i] = 0;
   }
   prefix[0] = bars[0];
   suffix[bars.length - 1] = bars[bars.length - 1];
