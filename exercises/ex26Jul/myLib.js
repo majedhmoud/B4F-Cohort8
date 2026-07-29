@@ -99,12 +99,12 @@ export const cutting = (rodList) => {
   let ind = rodList.length - 1;
   let flag = false;
   while (ind > 0) {
-      if (mx[ind] == mx[ind - 1] || ind > n) {
-          ind--;
-          continue;
-        }
-        let numOfPeices = Math.floor(n / ind);
-        ans += numOfPeices * rodList[ind];
+    if (mx[ind] == mx[ind - 1] || ind > n) {
+      ind--;
+      continue;
+    }
+    let numOfPeices = Math.floor(n / ind);
+    ans += numOfPeices * rodList[ind];
     n = n % ind;
     if (ind == 1) flag = true;
     ind = n - 1;
@@ -163,13 +163,14 @@ export const sumOfDigitsSquared = (num) => {
 };
 
 export const flipper = (num) => {
-    let reversed = 0, i = 1;
-    while (num > i) i *= 10;
+  let reversed = 0,
+    i = 1;
+  while (num > i) i *= 10;
+  i /= 10;
+  while (num) {
+    reversed += (num % 10) * i;
     i /= 10;
-    while (num) {
-        reversed += (num % 10) * i;
-        i /= 10;
-        num = Math.floor (num / 10);
-    }
-    return reversed;
+    num = Math.floor(num / 10);
+  }
+  return reversed;
 };

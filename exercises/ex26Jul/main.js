@@ -47,7 +47,7 @@ import { arr1, arr2, img, bars, jumps, rodList } from "./data.js";
 // console.log(jump(jumps));
 
 // Problem 5:
-// console.log(cutting(rodList));
+console.log(cutting(rodList));
 
 // Automorphic Number
 // for (let i = 1; i <= 25; i++)
