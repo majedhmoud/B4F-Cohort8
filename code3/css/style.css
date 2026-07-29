@@ -1,0 +1,8 @@
+#main {
+  display: flex;
+  gap: 25px;
+}
+
+#main div {
+  border: 1px solid black;
+}
