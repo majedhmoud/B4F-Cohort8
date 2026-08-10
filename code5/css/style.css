@@ -1,0 +1,16 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: navy;
+  background-color: whitesmoke;
+  margin: 1%;
+  padding: 1%;
+  border: 2px dotted yellowgreen;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,112 @@
+{"kind":"deck","id":"pr/xwzdqu","name":"Deck"}
+{"kind":"layout","layoutId":"022b7ed2-c719-452c-8275-a7032cbb0472","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"5bf44243-7925-4878-a063-0306f58b5bfe","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ndk92i","slide":1,"title":"Dr. Robot","textShapes":5}
+{"kind":"shape","id":"sh/vqtc3yl4","slide":1,"bbox":[0,0,470,720]}
+{"kind":"shape","id":"sh/wr2tw32p","slide":1,"bbox":[0,0,470,720]}
+{"kind":"textbox","id":"sh/it4vydkv","slide":1,"text":"Dr. Robot","textPreview":"Dr. Robot","textChars":9,"textLines":1,"bbox":[526,157,650,72]}
+{"kind":"textbox","id":"sh/judc7ilg","slide":1,"text":"الفرصة. ونصنع المهارة، نبرمج","textPreview":"الفرصة. ونصنع المهارة، نبرمج","textChars":28,"textLines":1,"bbox":[526,241,650,55]}
+{"kind":"textbox","id":"sh/kfmd0321","slide":1,"text":"واضح. مهني مسار إلى الطموح ينقل برمجية وخدمات تدريبي مركز","textPreview":"واضح. مهني مسار إلى الطموح ينقل برمجية وخدمات تدريبي مركز","textChars":57,"textLines":1,"bbox":[526,323,600,75]}
+{"kind":"textbox","id":"sh/5gvu983m","slide":1,"text":"تدريبي مشروع عرض","textPreview":"تدريبي مشروع عرض","textChars":16,"textLines":1,"bbox":[526,521,620,28]}
+{"kind":"textbox","id":"sh/yx0bm9kr","slide":1,"text":"2026 | سلمية","textPreview":"2026 | سلمية","textChars":12,"textLines":1,"bbox":[526,554,620,24]}
+{"kind":"image","id":"im/svy5k7at","slide":1,"name":"","alt":"شعار Dr. Robot","bbox":[88,151,295,295]}
+{"kind":"notes","id":"nt/ndk92i","slide":1,"text":""}
+{"kind":"slide","id":"sl/wva85j","slide":2,"title":"المشكلة","textShapes":6}
+{"kind":"textbox","id":"sh/vu1gny94","slide":2,"text":"المشكلة","textPreview":"المشكلة","textChars":7,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/gvahw3ap","slide":2,"text":"العمل وسوق الطموح بين فجوة","textPreview":"العمل وسوق الطموح بين فجوة","textChars":26,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/hwjyp8ru","slide":2,"bbox":[1070,154,136,5]}
+{"kind":"textbox","id":"sh/ixszydsf","slide":2,"text":"الواضح. المهني والاتجاه العملي التدريب يفتقدون لكنهم بالبرمجة، حقيقيًا اهتمامًا الشباب من كثير يمتلك","textPreview":"الواضح. المهني والاتجاه العملي التدريب يفتقدون لكنهم بالبرمجة، حقيقيًا اهتمامًا الشباب من كثير يمتلك","textChars":100,"textLines":1,"bbox":[244,210,792,90]}
+{"kind":"shape","id":"sh/3y1gri90","slide":2,"bbox":[122,356,1036,142]}
+{"kind":"textbox","id":"sh/4zah0nal","slide":2,"text":"المدينة. خارج للمهارات وهجرة قليلة، محلية وفرص محدودة، برمجية كفاءات سلمية: في","textPreview":"المدينة. خارج للمهارات وهجرة قليلة، محلية وفرص محدودة، برمجية كفاءات سلمية: في","textChars":78,"textLines":1,"bbox":[166,385,948,70]}
+{"kind":"textbox","id":"sh/503ytsr6","slide":2,"text":"فعّال. مهني مسار بلا واعدة طاقات النتيجة:","textPreview":"فعّال. مهني مسار بلا واعدة طاقات النتيجة:","textChars":41,"textLines":1,"bbox":[244,551,792,34]}
+{"kind":"textbox","id":"sh/y18fm9sb","slide":2,"text":"Dr. Robot  |  2 / 8","textPreview":"Dr. Robot  |  2 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/wva85j","slide":2,"text":""}
+{"kind":"slide","id":"sl/6tcqmp","slide":3,"title":"الحل","textShapes":9}
+{"kind":"textbox","id":"sh/fihcjmd4","slide":3,"text":"الحل","textPreview":"الحل","textChars":4,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/gjqtcrep","slide":3,"text":"التنفيذ إلى التعلّم من","textPreview":"التنفيذ إلى التعلّم من","textChars":22,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/1kzulwva","slide":3,"bbox":[1070,154,136,5]}
+{"kind":"textbox","id":"sh/6dob6hwn","slide":3,"text":"واحدة. بيئة ضمن الحقيقي والعمل المتخصص التدريب بين مشروعنا يجمع","textPreview":"واحدة. بيئة ضمن الحقيقي والعمل المتخصص التدريب بين مشروعنا يجمع","textChars":63,"textLines":1,"bbox":[154,187,972,44]}
+{"kind":"shape","id":"sh/rexcfmx8","slide":3,"bbox":[700,275,440,245]}
+{"kind":"shape","id":"sh/sf6t8ret","slide":3,"bbox":[140,275,440,245]}
+{"kind":"textbox","id":"sh/tgfuhcve","slide":3,"text":"تدريبي مركز","textPreview":"تدريبي مركز","textChars":11,"textLines":1,"bbox":[758,313,324,38]}
+{"kind":"textbox","id":"sh/a9svi1wr","slide":3,"text":"الويب. وتطوير والتصميم البرمجة في عملية مسارات","textPreview":"الويب. وتطوير والتصميم البرمجة في عملية مسارات","textChars":46,"textLines":1,"bbox":[744,371,352,75]}
+{"kind":"textbox","id":"sh/ba1cr6dc","slide":3,"text":"برمجية خدمات مكاتب","textPreview":"برمجية خدمات مكاتب","textChars":18,"textLines":1,"bbox":[188,313,344,38]}
+{"kind":"textbox","id":"sh/nutofi98","slide":3,"text":"بُعد. وعن محليًا للعملاء مشاريع ينفذ فريق","textPreview":"بُعد. وعن محليًا للعملاء مشاريع ينفذ فريق","textChars":41,"textLines":1,"bbox":[184,371,352,75]}
+{"kind":"textbox","id":"sh/mtk7mdsn","slide":3,"text":"عمل فرص + ممارسة + تدريب","textPreview":"عمل فرص + ممارسة + تدريب","textChars":24,"textLines":1,"bbox":[210,571,860,44]}
+{"kind":"textbox","id":"sh/9wb6hsre","slide":3,"text":"Dr. Robot  |  3 / 8","textPreview":"Dr. Robot  |  3 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/6tcqmp","slide":3,"text":""}
+{"kind":"slide","id":"sl/eup7r1","slide":4,"title":"والمزايا المضافة القيمة","textShapes":10}
+{"kind":"textbox","id":"sh/gj294n65","slide":4,"text":"والمزايا المضافة القيمة","textPreview":"والمزايا المضافة القيمة","textChars":23,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/fitsbi5k","slide":4,"text":"الدورة انتهاء تتجاوز قيمة","textPreview":"الدورة انتهاء تتجاوز قيمة","textChars":25,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/uhkr2doz","slide":4,"bbox":[1070,154,136,5]}
+{"kind":"shape","id":"sh/tgba98ne","slide":4,"bbox":[1015,215,15,15]}
+{"kind":"textbox","id":"sh/sfi9036t","slide":4,"text":"التدريب بعد متابعة","textPreview":"التدريب بعد متابعة","textChars":18,"textLines":1,"bbox":[300,208,690,34]}
+{"kind":"textbox","id":"sh/7e987y58","slide":4,"text":"التالية. خطواته واتخاذ مهارته تطوير على المتدرب يساعد مستمر إرشاد","textPreview":"التالية. خطواته واتخاذ مهارته تطوير على المتدرب يساعد مستمر إرشاد","textChars":65,"textLines":1,"bbox":[300,243,690,31]}
+{"kind":"shape","id":"sh/6t0ryto3","slide":4,"bbox":[1015,329,15,15]}
+{"kind":"textbox","id":"sh/5srq5oni","slide":4,"text":"حقيقية عملية تجربة","textPreview":"حقيقية عملية تجربة","textChars":18,"textLines":1,"bbox":[300,322,690,34]}
+{"kind":"textbox","id":"sh/kri9w36x","slide":4,"text":"الفعلية. العمل متطلبات من المتدرب تُقرب تطبيقية مشاريع","textPreview":"الفعلية. العمل متطلبات من المتدرب تُقرب تطبيقية مشاريع","textChars":54,"textLines":1,"bbox":[300,357,690,31]}
+{"kind":"shape","id":"sh/upgj2t07","slide":4,"bbox":[1015,443,15,15]}
+{"kind":"textbox","id":"sh/fq90vyhs","slide":4,"text":"وخارجها المدينة داخل فرص","textPreview":"وخارجها المدينة داخل فرص","textChars":24,"textLines":1,"bbox":[300,436,690,34]}
+{"kind":"textbox","id":"sh/gri143id","slide":4,"text":"المحلية. للكفاءات المتاح السوق يوسّع بُعد عن العمل","textPreview":"المحلية. للكفاءات المتاح السوق يوسّع بُعد عن العمل","textChars":50,"textLines":1,"bbox":[300,471,690,31]}
+{"kind":"shape","id":"sh/hsr2x8zy","slide":4,"bbox":[150,572,980,58]}
+{"kind":"textbox","id":"sh/6lgjyt0b","slide":4,"text":"فقط. نظرية معرفة لا للعمل، قابلة كفاءة يبني لأنه مشروعنا؟ لماذا","textPreview":"فقط. نظرية معرفة لا للعمل، قابلة كفاءة يبني لأنه مشروعنا؟ لماذا","textChars":63,"textLines":1,"bbox":[181,583,918,35]}
+{"kind":"textbox","id":"sh/7mp0rehw","slide":4,"text":"Dr. Robot  |  4 / 8","textPreview":"Dr. Robot  |  4 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/eup7r1","slide":4,"text":""}
+{"kind":"slide","id":"sl/2dowrn","slide":5,"title":"المستهدفة الفئة","textShapes":11}
+{"kind":"textbox","id":"sh/m14zq9o7","slide":5,"text":"المستهدفة الفئة","textPreview":"المستهدفة الفئة","textChars":15,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/94vylo7i","slide":5,"text":"للتطوّر الاستعداد يملك بمن نبدأ","textPreview":"للتطوّر الاستعداد يملك بمن نبدأ","textChars":31,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/83mhsj6x","slide":5,"bbox":[1070,154,136,5]}
+{"kind":"textbox","id":"sh/zytgfepg","slide":5,"text":"المهني. والدافع الأكاديمية الخلفية بين تجمع مركّزة فئة","textPreview":"المهني. والدافع الأكاديمية الخلفية بين تجمع مركّزة فئة","textChars":54,"textLines":1,"bbox":[172,186,936,38]}
+{"kind":"shape","id":"sh/yxkzm98v","slide":5,"bbox":[735,284,385,185]}
+{"kind":"shape","id":"sh/l0vyh47m","slide":5,"bbox":[448,284,245,185]}
+{"kind":"shape","id":"sh/kzmhoz61","slide":5,"bbox":[160,284,245,185]}
+{"kind":"textbox","id":"sh/jux0rypk","slide":5,"text":"الأخيرة السنوات طلاب","textPreview":"الأخيرة السنوات طلاب","textChars":20,"textLines":1,"bbox":[772,315,311,60]}
+{"kind":"textbox","id":"sh/itozytoz","slide":5,"text":"القريبة والتخصصات المعلوماتية الهندسة","textPreview":"القريبة والتخصصات المعلوماتية الهندسة","textChars":37,"textLines":1,"bbox":[768,383,319,45]}
+{"kind":"textbox","id":"sh/cba14bux","slide":5,"text":"الخريجون","textPreview":"الخريجون","textChars":8,"textLines":1,"bbox":[473,326,195,40]}
+{"kind":"textbox","id":"sh/dwjidgvi","slide":5,"text":"مهنية بداية عن الباحثون","textPreview":"مهنية بداية عن الباحثون","textChars":23,"textLines":1,"bbox":[468,389,205,40]}
+{"kind":"textbox","id":"sh/q9sj21c7","slide":5,"text":"بالمجال المهتمون","textPreview":"بالمجال المهتمون","textChars":16,"textLines":1,"bbox":[178,326,210,40]}
+{"kind":"textbox","id":"sh/ra10b6dc","slide":5,"text":"بالتعلّم شغف أو أولية خبرة مع","textPreview":"بالتعلّم شغف أو أولية خبرة مع","textChars":29,"textLines":1,"bbox":[172,389,222,40]}
+{"kind":"textbox","id":"sh/47q10ru1","slide":5,"text":"عمل. فرصة إلى التقني اهتمامه تحويل يريد من الأولوية:","textPreview":"عمل. فرصة إلى التقني اهتمامه تحويل يريد من الأولوية:","textChars":52,"textLines":1,"bbox":[200,558,880,36]}
+{"kind":"textbox","id":"sh/p8ji9wvm","slide":5,"text":"Dr. Robot  |  5 / 8","textPreview":"Dr. Robot  |  5 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/2dowrn","slide":5,"text":""}
+{"kind":"slide","id":"sl/u5o0bm","slide":6,"title":"الجمهور إلى الوصول","textShapes":9}
+{"kind":"textbox","id":"sh/69orelkv","slide":6,"text":"الجمهور إلى الوصول","textPreview":"الجمهور إلى الوصول","textChars":18,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/tcfq9036","slide":6,"text":"ويقررون يتواصلون حيث إليهم نصل","textPreview":"ويقررون يتواصلون حيث إليهم نصل","textChars":30,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/8b69gv2l","slide":6,"bbox":[1070,154,136,5]}
+{"kind":"textbox","id":"sh/j6x836l4","slide":6,"text":"المنطقة. في موثوقة بشراكات مدعوم محلي رقمي تسويق","textPreview":"المنطقة. في موثوقة بشراكات مدعوم محلي رقمي تسويق","textChars":48,"textLines":1,"bbox":[172,185,936,38]}
+{"kind":"shape","id":"sh/y5o7alkj","slide":6,"bbox":[773,290,350,194]}
+{"kind":"shape","id":"sh/l8fq5g3a","slide":6,"bbox":[155,290,510,194]}
+{"kind":"textbox","id":"sh/k769cb2p","slide":6,"text":"الاجتماعي التواصل منصات","textPreview":"الاجتماعي التواصل منصات","textChars":23,"textLines":1,"bbox":[805,328,286,38]}
+{"kind":"textbox","id":"sh/32h8fal8","slide":6,"text":"العملية. والقصص التدريبية بالمسارات يعرّف ومحتوى إعلانات","textPreview":"العملية. والقصص التدريبية بالمسارات يعرّف ومحتوى إعلانات","textChars":56,"textLines":1,"bbox":[803,386,290,62]}
+{"kind":"textbox","id":"sh/i18rm5k3","slide":6,"text":"محلية وشراكات تشبيك","textPreview":"محلية وشراكات تشبيك","textChars":19,"textLines":1,"bbox":[229,328,362,38]}
+{"kind":"textbox","id":"sh/gvq18jm5","slide":6,"text":"وتبنّيها. الفكرة لنشر شبابية ومجتمعات وجامعات داعمة مؤسسات مع التعاون","textPreview":"وتبنّيها. الفكرة لنشر شبابية ومجتمعات وجامعات داعمة مؤسسات مع التعاون","textChars":69,"textLines":1,"bbox":[203,386,414,62]}
+{"kind":"textbox","id":"sh/1wziho3q","slide":6,"text":"وعمل تدريب رحلة → تسجيل → اهتمام → واضحة رسالة","textPreview":"وعمل تدريب رحلة → تسجيل → اهتمام → واضحة رسالة","textChars":46,"textLines":1,"bbox":[190,558,900,36]}
+{"kind":"textbox","id":"sh/utoj694z","slide":6,"text":"Dr. Robot  |  6 / 8","textPreview":"Dr. Robot  |  6 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/u5o0bm","slide":6,"text":""}
+{"kind":"slide","id":"sl/idy71w","slide":7,"title":"SWOT تحليل","textShapes":11}
+{"kind":"textbox","id":"sh/pwv2t0rq","slide":7,"text":"SWOT تحليل","textPreview":"SWOT تحليل","textChars":10,"textLines":1,"bbox":[74,55,1132,28]}
+{"kind":"textbox","id":"sh/2t43i5sz","slide":7,"text":"البناء على تساعدنا واقعية صورة","textPreview":"البناء على تساعدنا واقعية صورة","textChars":30,"textLines":1,"bbox":[74,83,1132,68]}
+{"kind":"shape","id":"sh/nudkrq9k","slide":7,"bbox":[1070,154,136,5]}
+{"kind":"shape","id":"sh/cjmlofa1","slide":7,"bbox":[735,220,395,166]}
+{"kind":"textbox","id":"sh/xkfmxkrm","slide":7,"text":"القوة نقاط","textPreview":"القوة نقاط","textChars":10,"textLines":1,"bbox":[767,247,331,34]}
+{"kind":"textbox","id":"sh/ah43m5sv","slide":7,"text":"المشروع. لتنفيذ اللازمة الخبرة يمتلك فريق","textPreview":"المشروع. لتنفيذ اللازمة الخبرة يمتلك فريق","textChars":41,"textLines":1,"bbox":[770,299,325,55]}
+{"kind":"shape","id":"sh/bidkva9g","slide":7,"bbox":[150,220,395,166]}
+{"kind":"textbox","id":"sh/sn2lcbax","slide":7,"text":"الضعف نقاط","textPreview":"الضعف نقاط","textChars":10,"textLines":1,"bbox":[182,247,331,34]}
+{"kind":"textbox","id":"sh/dob2lgri","slide":7,"text":"الإطلاق. مرحلة في محدودة وموارد مال رأس","textPreview":"الإطلاق. مرحلة في محدودة وموارد مال رأس","textChars":39,"textLines":1,"bbox":[185,299,325,55]}
+{"kind":"shape","id":"sh/1ofmdwzq","slide":7,"bbox":[735,437,395,166]}
+{"kind":"textbox","id":"sh/0n654ry5","slide":7,"text":"الفرص","textPreview":"الفرص","textChars":5,"textLines":1,"bbox":[767,464,331,34]}
+{"kind":"textbox","id":"sh/fmx4bmh0","slide":7,"text":"المنطقة. ضمن مماثلة خدمة غياب","textPreview":"المنطقة. ضمن مماثلة خدمة غياب","textChars":29,"textLines":1,"bbox":[770,516,325,55]}
+{"kind":"shape","id":"sh/elon2h0f","slide":7,"bbox":[150,437,395,166]}
+{"kind":"textbox","id":"sh/9szmhwz2","slide":7,"text":"التهديدات","textPreview":"التهديدات","textChars":9,"textLines":1,"bbox":[182,464,331,34]}
+{"kind":"textbox","id":"sh/orq58ryh","slide":7,"text":"المجانية. الإلكتروني التعليم منصات انتشار","textPreview":"المجانية. الإلكتروني التعليم منصات انتشار","textChars":41,"textLines":1,"bbox":[185,516,325,55]}
+{"kind":"textbox","id":"sh/nqh4f6hw","slide":7,"text":"Dr. Robot  |  7 / 8","textPreview":"Dr. Robot  |  7 / 8","textChars":19,"textLines":1,"bbox":[74,670,1132,20]}
+{"kind":"notes","id":"nt/idy71w","slide":7,"text":""}
+{"kind":"slide","id":"sl/iqyo5m","slide":8,"title":"والنمو. العمل على قادرًا تقنيًا جيلًا معًا نصنع","textShapes":4}
+{"kind":"shape","id":"sh/epcvq9kb","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/0rudsj2h","slide":8,"text":"والنمو. العمل على قادرًا تقنيًا جيلًا معًا نصنع","textPreview":"والنمو. العمل على قادرًا تقنيًا جيلًا معًا نصنع","textChars":47,"textLines":1,"bbox":[190,327,900,58]}
+{"kind":"textbox","id":"sh/rm1cve10","slide":8,"text":"المجتمع. في أثره وتوسيع المشروع بناء في شركاء لتكونوا ندعوكم","textPreview":"المجتمع. في أثره وتوسيع المشروع بناء في شركاء لتكونوا ندعوكم","textChars":60,"textLines":1,"bbox":[200,418,880,42]}
+{"kind":"shape","id":"sh/6lsvm9kf","slide":8,"bbox":[412,521,456,64]}
+{"kind":"textbox","id":"sh/tojuxoj6","slide":8,"text":"فرصة. إلى الطموح لنحوّل","textPreview":"فرصة. إلى الطموح لنحوّل","textChars":23,"textLines":1,"bbox":[440,532,400,37]}
+{"kind":"textbox","id":"sh/snadoj2l","slide":8,"text":"الفرصة. ونصنع المهارة، نبرمج","textPreview":"الفرصة. ونصنع المهارة، نبرمج","textChars":28,"textLines":1,"bbox":[245,641,790,24]}
+{"kind":"image","id":"im/knmp0f6l","slide":8,"name":"","alt":"شعار Dr. Robot","bbox":[515,70,250,220]}
+{"kind":"notes","id":"nt/iqyo5m","slide":8,"text":""}
