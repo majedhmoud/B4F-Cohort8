@@ -85,6 +85,7 @@ const isUTF = (nums) => {
     return nums[0].slice(0, 3) == "110" && nums[1].slice(0, 2) == "10";
   }
 };
+
 console.log(evenAndOdd(1234567890));
 console.log(pascalCase("hello world"));
 console.log(difference([255, 255, 255], [0, 0, 0]));
